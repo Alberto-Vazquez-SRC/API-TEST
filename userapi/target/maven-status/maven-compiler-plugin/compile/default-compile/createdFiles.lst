@@ -1,0 +1,8 @@
+com\juan\usersapi\util\AESUtil.class
+com\juan\usersapi\UserapiApplication.class
+com\juan\usersapi\service\UserService.class
+com\juan\usersapi\model\Address.class
+com\juan\usersapi\util\ValidationUtil.class
+com\juan\usersapi\dto\LoginRequest.class
+com\juan\usersapi\model\User.class
+com\juan\usersapi\controller\UserController.class
